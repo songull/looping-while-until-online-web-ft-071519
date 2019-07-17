@@ -3,4 +3,3 @@ def using_while
 while levitation_force < 16
   puts "Wingardium Leviosa"
 end
-end
